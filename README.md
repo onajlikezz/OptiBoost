@@ -2,7 +2,7 @@
 this program was created to speed up the PC, it is currently in beta phase.
 
 ## UPDATES
-[GitHub Releases](https://github.com/onajlikezz/OptiBoost/releases/tag/untagged-7a67bd0807b870c3fcbc)
+[GitHub Releases](https://github.com/onajlikezz/OptiBoost/releases)
 
 ## More About the Program
 - [x] [What does this script do?](#WHAT-DOES-THIS-SCRIPT-DO?)
