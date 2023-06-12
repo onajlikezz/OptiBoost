@@ -10,9 +10,9 @@ this program was created to speed up the PC, it is currently in beta phase.
 
 ## Download
 <p align="center">
-  <img src="/screenshots/download.PNG" />
+  https://github.com/onajlikezz/OptiBoost/releases
 </p>
-[GitHub Releases](https://github.com/onajlikezz/OptiBoost/releases)
+
 
 ## More About the Program
 - [x] [What does this script do?](#WHAT-DOES-THIS-SCRIPT-DO?)
