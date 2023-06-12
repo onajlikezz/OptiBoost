@@ -8,9 +8,9 @@ this program was created to speed up the PC, it is currently in beta phase.
   <img alt="Discord" src="https://img.shields.io/discord/1061650033985998848?logo=discord&style=flat-square">
 </p>
 
-## UPDATES
+## Download
 <p align="center">
-  <img src="https://t4.ftcdn.net/jpg/05/53/48/97/360_F_553489791_x7xgnXUmCqXTv2SslehhCCKSblkGtrUD.jpg" />
+  <img src="/screenshots/download.PNG" />
 </p>
 [GitHub Releases](https://github.com/onajlikezz/OptiBoost/releases)
 
