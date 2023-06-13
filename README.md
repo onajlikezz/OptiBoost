@@ -12,7 +12,7 @@ this program was created to speed up the PC, it is currently in beta phase.
 - {x} [What does this script do?](#WHAT-DOES-THIS-SCRIPT-DO?)
 - {x} [Download Last Release](https://github.com/onajlikezz/OptiBoost/releases)
 - {x} [Game Configurations](#Game-Configurations)
-- {x} 
+- {x} [Services that OptiBoost disables](#Services)
 - {x} 
 - {x} [Support](#SUPPORT)
 
@@ -29,8 +29,47 @@ This script **shuts down services**, adds a **special power plan**, changing gam
 </p>
 
 ## Disable Services
+SERVICES THAT THIS SCRIPT STOPS:
+
+    TrustedInstaller(Windows Modules Installer),
+    wuauserv (Windows Update),
+    bthserv (Bluetooth Support Service),
+    BTAGService (Bluetooth Audio Gateway Service),
+    BthHFSrv (Bluetooth Handsfree Service),
+    BthHfAudSvc (Bluetooth Handsfree Audio Service),
+    BthUserService (Bluetooth User Support Service),
+    das (Data Sharing Service),
+    DmEnrollmentSvc (Device Management Enrollment Service),
+    Spooler (Print Spooler),
+    XblAuthManager (Xbox Live Auth Manager),
+    XblGameSave (Xbox Live Game Save),
+    XboxNetApiSvc (Xbox Live Networking Service),
+    RemoteRegistry (Remote Registry),
+    InstallService (Windows Installer),
+    EventLog (Windows Event Log),
+    FontCache3.0.0.0 (Windows Font Cache Service 3.0.0.0),
+    icssvc (Internet Connection Sharing (ICS)),
+    FontCache (Windows Font Cache Service),
+    Wecsvc (Windows Event Collector),
+    WEPHOSTSVC (Wired AutoConfig),
+    Themes (Themes),
+    SSDPSRV (SSDP Discovery),
+    ShellHWDetection (Shell Hardware Detection),
+    LanmanServer (Server),
+    SstpSvc (Secure Socket Tunneling Protocol Service),
+    RasMan (Remote Access Connection Manager),
+    QWAVE (Quality Windows Audio Video Experience),
+    PcaSvc (Program Compatibility Assistant Service),
+    WPDBusEnum (Portable Device Enumerator Service),
+    NetTcpPortSharing (Net.Tcp Port Sharing Service),
+    diagnosticshub.standardcollector.service (Diagnostics Hub Standard Collector Service),
+    KtmRm (KtmRm for Distributed Transaction Coordinator),
+    IpxlatCfgSvc (IP Translation Configuration Service),
+    iphlpsvc (IP Helper)
+
+## Enable Services
 <p align="center">
-  <img src="SCRS/scr4.PNG" />
+  <img src="SCRS/scrX.PNG" />
 </p>
 
 ## SUPPORT
