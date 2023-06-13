@@ -1,5 +1,5 @@
 # OptiBoost
-this program was created to speed up the PC, it is currently in beta phase.
+this program was created to speed up, get more FPS in Games on Low End PC.
 
 <p align="center">
   <img src="SCRS/scr1.PNG" />
