@@ -1,9 +1,7 @@
 # OptiBoost
-this program was created to speed up, get more FPS in Games on Low End PC.
-
 <p align="center">
-  <img src="SCRS/scr1.PNG" />
   this program was created to speed up, get more FPS in Games on Low End PC.
+  <img src="SCRS/scr1.PNG" />
   <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/onajlikezz/OptiBoost/total?logo=GitHub&style=flat-square">
   <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCPGq5aI894K7cr0xvu0vJZQ?logo=YouTube&logoColor=red&style=flat-square">
   <img alt="Discord" src="https://img.shields.io/discord/1061650033985998848?logo=discord&style=flat-square">
