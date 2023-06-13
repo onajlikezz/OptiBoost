@@ -8,21 +8,29 @@ this program was created to speed up the PC, it is currently in beta phase.
   <img alt="Discord" src="https://img.shields.io/discord/1061650033985998848?logo=discord&style=flat-square">
 </p>
 
-## Download
-<p align="center">
-  https://github.com/onajlikezz/OptiBoost/releases
-</p>
-
-
 ## More About the Program
-- [x] [What does this script do?](#WHAT-DOES-THIS-SCRIPT-DO?)
-- [x] [Support](#SUPPORT)
+- {x} [What does this script do?](#WHAT-DOES-THIS-SCRIPT-DO?)
+- {x} [Download Last Release](https://github.com/onajlikezz/OptiBoost/releases)
+- {x} [Game Configurations](#Game-Configurations)
+- {x} 
+- {x} 
+- {x} [Support](#SUPPORT)
 
 ## WHAT DOES THIS SCRIPT DO?
-This script **shuts down services**, adds a **special power plan** and makes some **other tweaks** to the computer for *more performance and fewer processes.*
-
+This script **shuts down services**, adds a **special power plan**, changing game configs and makes some **other tweaks** to the computer for *more performance and fewer processes.*
 <p align="center">
   <img src="SCRS/scr2.PNG" />
+</p>
+
+## Game Configurations
+<p align="center">
+  This script (in Last Release) Have Configurations For: All Games (Only Set All To High Priority), Fortnite, CS:GO, League of Legends
+  <img src="SCRS/scr3.PNG" />
+</p>
+
+## Disable Services
+<p align="center">
+  <img src="SCRS/scr4.PNG" />
 </p>
 
 ## SUPPORT
