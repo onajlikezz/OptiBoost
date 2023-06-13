@@ -9,7 +9,7 @@ this program was created to speed up the PC, it is currently in beta phase.
 </p>
 
 ## More About the Program
-- {x} [What does this script do?](#WHAT-DOES-THIS-SCRIPT-DO?)
+- {x} [What does this script do?](#WHAT-DOES-THIS-SCRIPT-DO)
 - {x} [Download Last Release](https://github.com/onajlikezz/OptiBoost/releases)
 - {x} [Game Configurations](#Game-Configurations)
 - {x} [Services that OptiBoost disables](#Disable-Services)
