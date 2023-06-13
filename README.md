@@ -12,8 +12,8 @@ this program was created to speed up the PC, it is currently in beta phase.
 - {x} [What does this script do?](#WHAT-DOES-THIS-SCRIPT-DO?)
 - {x} [Download Last Release](https://github.com/onajlikezz/OptiBoost/releases)
 - {x} [Game Configurations](#Game-Configurations)
-- {x} [Services that OptiBoost disables](#Services)
-- {x} 
+- {x} [Services that OptiBoost disables](#Disable-Services)
+- {x} [Services that OptiBoost Enables](#Enable-Services)
 - {x} [Support](#SUPPORT)
 
 ## WHAT DOES THIS SCRIPT DO?
@@ -69,6 +69,7 @@ SERVICES THAT THIS SCRIPT STOPS:
 
 ## Enable Services
 <p align="center">
+  If you need Printer, Bluetooth or Both Services, you can return them.
   <img src="SCRS/scrX.PNG" />
 </p>
 
