@@ -8,8 +8,8 @@
 </p>
 
 ## More About the Program
-- {x} [What does this script do?](#WHAT-DOES-THIS-SCRIPT-DO)
 - {x} [Download Last Release](https://github.com/onajlikezz/OptiBoost/releases)
+- {x} [What does this script do?](#WHAT-DOES-THIS-SCRIPT-DO)
 - {x} [Game Configurations](#Game-Configurations)
 - {x} [Services that OptiBoost disables](#Disable-Services)
 - {x} [Services that OptiBoost Enables](#Enable-Services)
