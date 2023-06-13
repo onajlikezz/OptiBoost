@@ -14,6 +14,11 @@ this program was created to speed up the PC, it is currently in beta phase.
 - {x} [Game Configurations](#Game-Configurations)
 - {x} [Services that OptiBoost disables](#Disable-Services)
 - {x} [Services that OptiBoost Enables](#Enable-Services)
+- {x} [Uninstall Windows Programs](#Uninstall-Windows-Programs)
+- {x} [Programs For Optimization](#Programs-For-Optimization)
+- {x} [Windows Debloater](#Windows-Debloater)
+- {x} [Windows Configurations](#Windows-Configurations)
+- {x} [Appearance](#Appearance)
 - {x} [Support](#SUPPORT)
 
 ## WHAT DOES THIS SCRIPT DO?
@@ -71,6 +76,33 @@ SERVICES THAT THIS SCRIPT STOPS:
 <p align="center">
   If you need Printer, Bluetooth or Both Services, you can return them.
   <img src="SCRS/scrX.PNG" />
+</p>
+
+## Uninstall Windows Programs
+<p align="center">
+  OptiBoost can also delete these programs:
+  <img src="SCRS/scr6.PNG" />
+</p>
+
+## Programs For Optimization  
+<p align="center">
+  OptiBoost removes programs that improve performance and overclock:
+  <img src="SCRS/scr7.PNG" />
+</p>
+
+## Windows Debloater
+  This part of the script downloads the Original Windows Debloater and runs it:
+  <img src="SCRS/scr8.PNG" />
+</p>
+ 
+## Windows Configurations
+  With this script, you can turn off all Windows Things that you don't use:
+  <img src="SCRS/scr9.PNG" />
+</p>
+
+## Appearance
+  Here you can change the appearance (only the color for now) of the script:
+  <img src="SCRS/scr10.PNG" />
 </p>
 
 ## SUPPORT
