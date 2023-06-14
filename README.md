@@ -9,6 +9,7 @@
 
 ## More About the Program
 - {x} [Download Last Release](https://github.com/onajlikezz/OptiBoost/releases)
+- {x} [YouTube Tutorial](https://www.youtube.com/watch?v=I_y_CSuxPR0&t=324s)
 - {x} [What does this script do?](#WHAT-DOES-THIS-SCRIPT-DO)
 - {x} [Game Configurations](#Game-Configurations)
 - {x} [Services that OptiBoost disables](#Disable-Services)
